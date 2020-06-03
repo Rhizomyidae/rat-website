@@ -36,12 +36,14 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mt-4 mt-lg-0 ml-auto">
             <li class="nav-item ">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item ">
               <a class="nav-link" href="/overview">Overview</a>
             </li>
             <li class="nav-item dropdown dropdown-animate" data-toggle="hover">
               <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
               <div class="dropdown-menu dropdown-menu-single">
-                <a href="/" class="dropdown-item">Homepage</a>
                 <a href="/about" class="dropdown-item">About us</a>
                 <a href="/contact" class="dropdown-item">Contact</a>
                 <div class="dropdown-divider"></div>
